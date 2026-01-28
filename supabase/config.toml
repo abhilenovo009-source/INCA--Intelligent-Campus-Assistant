@@ -1,0 +1,7 @@
+project_id = "jtwycqufqccvqclnosob"
+
+[functions.process-attendance]
+verify_jwt = true
+
+[functions.send-credentials-email]
+verify_jwt = true
